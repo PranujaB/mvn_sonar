@@ -17,12 +17,6 @@
     <sonar.host.url>http://34.93.28.227:9000</sonar.host.url>
     <sonar.login>admin</sonar.login>
     <sonar.password>admin</sonar.password>
-    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    <maven.compiler.source>1.7</maven.compiler.source>
-    <maven.compiler.target>1.7</maven.compiler.target>
-    <sonar.host.url>http://35.200.146.132:9000</sonar.host.url>
-    <sonar.login>admin</sonar.login>
-    <sonar.password>admin</sonar.password>
     <java.version>11</java.version>
     <dependency-check-maven.version>6.1.1</dependency-check-maven.version>
     <sonar.dependencyCheck.htmlReportPath>./target/dependency-check-report.html</sonar.dependencyCheck.htmlReportPath>
